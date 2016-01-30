@@ -130,7 +130,7 @@ set(config_module_list
 	# Rover apps
 	#
 	examples/rover_steering_control
-
+	examples/px4_simple_app
 	#
 	# Demo apps
 	#
